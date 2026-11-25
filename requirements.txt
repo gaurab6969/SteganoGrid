@@ -1,0 +1,4 @@
+Pillow>=11.0
+cryptography>=44.0
+pytest>=8.0
+streamlit>=1.40
