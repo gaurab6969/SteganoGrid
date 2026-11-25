@@ -431,10 +431,10 @@ with extract_tab:
 
 with about_tab:
 
-    st.header("About CipherVeil")
+    st.header("About SteganoGrid")
 
     st.write("""
-    CipherVeil is a Python-based cybersecurity application that
+    SteganoGrid is a Python-based cybersecurity application that
     combines encryption and image steganography to protect confidential
     information.
     """)
